@@ -104,6 +104,10 @@
     npm run build
     ```
 
+## Использование API
+
+Вы можете получить доступ к документации API (Swagger) по адресу [http://localhost:8000/api/documentation](http://localhost:8000/api/documentation).
+
 ## Разработка
 
 1. Внесите изменения в код в соответствующих каталогах (`Goods-Test/`, `goods-front/`).
